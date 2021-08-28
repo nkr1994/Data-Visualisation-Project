@@ -1,2 +1,2 @@
-# Data-Visualisation-Project
+# Data Visualisation-Project
 IMDb Movie Data Visualisation Assignment
